@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BhanuJoshi01
 - 👀 I’m interested in ML, MLOps, Python..
 - 🌱 I’m currently learning ML Operations
-- 💞️ I’m looking to collaborate on ML Lifecycle and maturity initiatives
+- 💞️ I’m looking to collaborate on ML projects, ML Operations, Lifecycle and maturity initiatives
 - 📫 How to reach me ...
 
 <!---
