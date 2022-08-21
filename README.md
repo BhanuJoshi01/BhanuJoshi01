@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BhanuJoshi01
-- 👀 I’m interested in ML, MLOps, Python..
+- 👀 I’m interested in ML, MLOps, Python, Azure ADO, CI-CD Pipelines..
 - 🌱 I’m currently learning ML Operations
 - 💞️ I’m looking to collaborate on ML projects, ML Operations, Lifecycle and maturity initiatives
 - 📫 How to reach me ...
